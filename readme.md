@@ -18,8 +18,6 @@
 
 - 📫 How to reach me **jitender301996@gmail.com**
 
--// 📄 Know about my experiences [https://drive.google.com/drive/folders/137nKZRUxLwbuA8yqFRTqw5y3KtEcq3yB?usp=sharing](https://drive.google.com/drive/folders/137nKZRUxLwbuA8yqFRTqw5y3KtEcq3yB?usp=sharing)
-
 - ⚡ Fun fact **I love Cooking and Travelling**
 
 <h3 align="left">Connect with me:</h3>
