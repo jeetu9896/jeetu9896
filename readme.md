@@ -6,13 +6,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeetu9896" alt="jeetu9896" /></a> </p>
 <img align="right" alt="Coding" width="400" src="http://crazydevelopers.in/wp-content/uploads/2021/09/cms-website-development-service.gif">
-- 🔭 I’m Recently working on [Zoom Car Clone](https://github.com/rahul-6472/zoomcar.in)
-
-- 🌱 I’m currently learning **MERN STACK**
-
-- 👯 I’m Recently working on [Patreon Clone](https://github.com/shiwam-C114/patreon-clone)
-
-- 🤝 I’m Currently Working on Sudoku Solver **Sudoku Solver**
 
 - 💬 Ask me about **I am Jitender From Sirsa Haryana, I am perusing my PG in Master of Computer Application From Chaudhary Devi Lal University Sirsa, Haryana. And also I am learning MERN Stack From Masai School Bengaluru in part time. **
 
