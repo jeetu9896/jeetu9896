@@ -14,11 +14,11 @@
 
 - 🤝 I’m Currently Working on Sudoku Solver **Sudoku Solver**
 
-- 💬 Ask me about **I am Mohit soni From Sirsa Haryana, I am perusing my PG in Master of Computer Application From Chaudhary Devi Lal University Sirsa, Haryana. also In part time I am learning MERN Stack From Masai School Bengaluru.**
+- 💬 Ask me about **I am Jitender From Sirsa Haryana, I am perusing my PG in Master of Computer Application From Chaudhary Devi Lal University Sirsa, Haryana. And also I am learning MERN Stack From Masai School Bengaluru in part time. **
 
 - 📫 How to reach me **jitender301996@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/137nKZRUxLwbuA8yqFRTqw5y3KtEcq3yB?usp=sharing](https://drive.google.com/drive/folders/137nKZRUxLwbuA8yqFRTqw5y3KtEcq3yB?usp=sharing)
+-// 📄 Know about my experiences [https://drive.google.com/drive/folders/137nKZRUxLwbuA8yqFRTqw5y3KtEcq3yB?usp=sharing](https://drive.google.com/drive/folders/137nKZRUxLwbuA8yqFRTqw5y3KtEcq3yB?usp=sharing)
 
 - ⚡ Fun fact **I love Cooking and Travelling**
 
